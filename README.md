@@ -1,5 +1,5 @@
 # Torrent-esque P2P File-sharing System Assignment
-From SNU ECE 2022 & 2023 Fall **Introduction to Data Communication Networks** class. 
+From SNU ECE 2022 Fall **Introduction to Data Communication Networks** class. 
 
 ## Program Specification
 
